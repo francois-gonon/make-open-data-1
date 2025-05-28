@@ -398,3 +398,5 @@ $RECYCLE.BIN/
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,windows,linux,python,dbt,visualstudiocode,pycharm
 reports/
+bases_disponibles.csv
+champs_disponibles.csv
